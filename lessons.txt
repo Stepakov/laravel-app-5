@@ -1,0 +1,6 @@
+
+
+php artisan make:model Article -mf
+php artisan make:model State -mf
+php artisan make:model Comment -mf
+php artisan make:model Tag -mf
